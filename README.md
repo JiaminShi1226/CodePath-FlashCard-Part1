@@ -1,8 +1,8 @@
 # Web Development Project 2 - FlashCard Part1
 
-Submitted by: Jiamin Shi
+Submitted by: **Jiamin Shi**
 
-This web app: FlashCard Part1
+This web app: **FlashCard Part1**
 
 Time spent: **3** hours spent in total
 
